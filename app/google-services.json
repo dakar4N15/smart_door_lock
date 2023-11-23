@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640162664302",
+    "project_id": "smartdoorlock-1accb",
+    "storage_bucket": "smartdoorlock-1accb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640162664302:android:b956790f989fa6f2c6bb7f",
+        "android_client_info": {
+          "package_name": "com.example.smart_doorlock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUX-8Ui_0tavGWx1Co9wN5beVLoW-bnPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
